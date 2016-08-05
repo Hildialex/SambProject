@@ -1,2 +1,2 @@
 # SambProject
-Projeto destinado a montadoras de bicilcetas.
+Projeto destinado a montadoras de bicicletas.
